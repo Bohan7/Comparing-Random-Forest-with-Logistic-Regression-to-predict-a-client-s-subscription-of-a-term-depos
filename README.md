@@ -1,6 +1,3 @@
-# ada-2020-project-milestone-p3-p3-lwy
-## Milestone P3:
-
 ### 1.	Title: Comparing Random Forest with Logistic Regression to predict a client ‘s subscription of a term deposit
 
 ### 2.	Abstract
